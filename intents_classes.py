@@ -79,3 +79,90 @@ class mato():
 class olha():
     def action(self):
         print("It work!")
+
+class toca():
+    def action(self):
+        print("It work!")
+
+class ouvir():
+    def action(self):
+        print("It work!")
+
+class fumo():
+    def action(self):
+        print("It work!")
+
+class aplica():
+    def action(self):
+        print("It work!")
+
+class bebe():
+    def action(self):
+        print("It work!")
+
+class sobe():
+    def action(self):
+        print("It work!")
+
+class escreve():
+    def action(self):
+        print("It work!")
+
+class tira():
+    def action(self):
+        print("It work!")
+
+class passa():
+    def action(self):
+        print("It work!")
+
+class dirige():
+    def action(self):
+        print("It work!")
+
+
+class quebra():
+    def action(self):
+        ("It work!")
+
+class almoça():
+    def action(self):
+        ("It work!")
+
+class quebra():
+    def action(self):
+        ("It work!")
+
+class puxa():
+    def action(self):
+        ("It work!")
+
+class desenha():
+    def action(self):
+        ("It work!")
+
+class chama():
+    def action(self):
+        ("It work!")
+
+class entra():
+    def action(self):
+        ("It work!")
+
+class monta():
+    def action(self):
+        ("It work!")
+
+class canta():
+    def action(self):
+        ("It work!")
+
+class senta():
+    def action(self):
+        ("It work!")
+
+class arruma():
+    def action(self):
+        ("It work!")
+
+        

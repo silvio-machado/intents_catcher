@@ -17,5 +17,27 @@
     "monta": ["montei", "monto", "montarei", "montar", "monta"],
     "ser" : ["fui", "sou", "serei", "ser", "seja"],
     "veste" : ["vesti", "visto", "vestirei", "vestir", "vista"],
-    "mato" : ["matei", "mato", "matarei", "matar", "mata"]
+    "mato" : ["matei", "mato", "matarei", "matar", "mata"],
+    "toca" : ["toquei", "toco", "tocarei", "tocar", "toca"],
+    "ouvir" : ["ouvi", "ouço", "ouvirei", "ouvir", "ouça"],
+    "fumo" : ["fumei", "fumo", "fumarei", "fumar", "fuma"],
+    "aplica" : ["apliquei", "aplico", "aplicarei", "aplicar", "aplica"],
+    "bebe" : ["bebi", "bebo", "beberei", "beber", "bebe"],
+    "sobe" : ["subi", "subo", "subirei", "subir", "sobe"],
+    "escreve" : ["escrevi", "escrevo", "escreverei", "escrever", "escreve"],
+    "tira" : ["tirei", "tiro", "tirarei", "tirar", "tira"],
+    "passa" : ["passei", "passo", "passarei", "passar", "pasas"],
+    "dirige" : ["dirigi", "dirijo", "dirigirei", "dirigir", "dirija"],
+    "passa" : ["passei", "passo", "passarei", "passar", "passa"],
+    "almoça" : ["almocei", "almoço", "almoçarei", "almoçar", "almoça"],
+    "quebra" : ["quebrei", "quebro", "quebrarei", "quebrar", "quebra"],
+    "puxa" : ["puxei", "puxo", "puxarei", "puxar", "puxa"],
+    "desenha" : ["desenhei", "desenho", "desenharei", "desenhar", "desenha"],
+    "chama" : ["chamei", "chamo", "chamarei", "chamar", "chama"],
+    "entra" : ["entrei", "entro", "entrarei", "entrar", "entra"],
+    "monta" : ["montei", "monto", "montarei", "montar", "monta"],
+    "canta" : ["cantei", "canto", "cantarei", "cantar", "canta"],
+    "senta" : ["sentei", "sento", "sentarei", "sentar", "senta"],
+    "arruma" : ["arrumei", "arrumo", "arrumarei", "arrumar", "arruma"]
+    
 }

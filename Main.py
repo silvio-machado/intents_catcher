@@ -1,11 +1,13 @@
 # -*- encoding: utf-8 -*-
 import json
+import os.path
 
-import intents_classes
-import phrase_refiner
+from . import intents_classes
+from . import phrase_refiner
 
+INTENTS_FILE_PATH = os.path.join(os.path.dirname(__file__), "intents.json")
         
-with open("intents.json", "r") as json_content:
+with open(INTENTS_FILE_PATH, "r") as json_content:
     intents = json.load(json_content)
     
 intencao = {}
@@ -21,14 +23,12 @@ for key in intents:
     intent = intent_class()
     for sub_intent in intents[key]:
         intencao[sub_intent] = intent
-    
-while True:
-    quest = phrase_refiner.object_refiner(input("$: " )).split()
+        
+def catcher(text):
+    quest = phrase_refiner.object_refiner(text).split()
     for word in quest:
         if word in intencao:
             objeto = " ".join(quest[quest.index(word)+1:])
-            print("a intencao é {} aplicavel em {}".format(
+            return"a intencao é {} aplicavel em {}".format(
                 word,
-                objeto)
-            )
-            break            
+                objeto)      
