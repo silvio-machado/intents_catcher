@@ -1,1 +1,21 @@
-{"comprar":["comprar", "compra", "adquirir", "negociar"]}
+{
+    "compra" : ["compro", "comprar", "compra", "comprarei", "adquirir", "adquiro"],
+    "venda": ["vendo", "vender", "venda","venderei", "desfazer", "desfaço"],
+    "comida":["como", "comer", "coma", "ingerir", "ingiro"],
+    "bater" : ["bato", "bater", "bata", "espancar", "espanco", "agrido", "agredir"],
+    "andar" : ["andar", "andei", "ando", "anda", "andarei"],
+    "correr" : ["correr", "corri", "corro", "corra", "correrei"],
+    "pega" : ["pegar", "pega", "pego", "peguei", "pegarei"],
+    "beber" : ["beber", "beba", "bebo", "bebi", "beberei"],
+    "faz" : ["faz", "fazer", "fiz", "farei", "faço"],
+    "toma" : ["tomei", "tomo", "tomarei", "tomar", "toma"],
+    "joga" : ["joguei", "jogo", "jogarei", "jogar", "joga"],
+    "paga" : ["paguei", "pago", "pagarei", "pagar", "paga"],
+    "olha" : ["olhei", "olho", "olharei", "olhar", "olha"],
+    "manda" : ["mandei", "mando", "mandarei", "mandar", "manda"],
+    "peço" : ["pedi", "peço", "pedirei", "pedir", "pede"],
+    "monta": ["montei", "monto", "montarei", "montar", "monta"],
+    "ser" : ["fui", "sou", "serei", "ser", "seja"],
+    "veste" : ["vesti", "visto", "vestirei", "vestir", "vista"],
+    "mato" : ["matei", "mato", "matarei", "matar", "mata"]
+}
